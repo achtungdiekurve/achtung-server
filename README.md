@@ -1,4 +1,7 @@
 Server for **YUPPIENALLE**
+==========================
+
+## First - Install Conda
 
 requirements: python, numpy, autobahn
 
